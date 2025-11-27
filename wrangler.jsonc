@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "positions-ws",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "wsbolt",
+      "database_id": "e0a69922-d46c-46e8-ae3c-8d183368709f"
+    }
+  ]
+}
